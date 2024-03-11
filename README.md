@@ -91,6 +91,3 @@ With 45k orders, or 24% of all orders received, San Francisco is the city with t
 3. Time-based Promotions: Implement promotions during eveing hours to boost sales.
 4. Year-Over-Year Comparison: Continuously monitor and compare yearly sales to identify long term trends.
 
-# Conclusion 
-
-
